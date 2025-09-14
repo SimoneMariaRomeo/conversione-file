@@ -1,5 +1,3 @@
-sapijdpais jpo sda'0 is'da0i'0dsi'0aisd'0 ia 
-
 import os
 from pathlib import Path
 import subprocess
